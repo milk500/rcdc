@@ -1,0 +1,4 @@
+# Treat all files in this repo as binary, with no git magic updating line
+# endings. We'll use LF line endings for this repository.
+
+* -text

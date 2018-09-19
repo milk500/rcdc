@@ -1,0 +1,6 @@
+# Go
+vendor/
+go.sum
+
+# Editor
+.vscode/
